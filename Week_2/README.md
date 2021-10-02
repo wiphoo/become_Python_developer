@@ -4,13 +4,45 @@ Topic for discussion
 
 1. Version Control GIT
 2. help() function
-3. Order of operations
-4. Control flow
-    
-    4.1 if statement
-    4.2 for statement
-    4.3 range () function
-    4.4 break and continue statement
-    4.5 pass
+3. Python operator precedence (Order of operations)
+4. Assignment and variable
 
-5. Function definition
+
+#### Version Control
+
+1. What is version control?
+2. What is GIT? Unpleasant Person?
+3. Basic commands
+
+    3.1 `git help` list all a common commands.
+    3.2 `git clone` clone a repository into a new directory.
+    3.3 `git log` show commit log.
+    3.4 `git status` show working tree status.
+    3.5 `git fetch` download objects and refs from another repository.
+    3.6 `git pull` fetch and integrate with another repository or local branch.
+    3.7 `git branch` list, create or delete branch.
+    3.8 `git commit` record a change to repository.
+    3.9 `git push` update remote refs along with objects.
+
+4. GUI in GIT in AWS Cloud9.
+
+
+#### Help function.
+
+    >>> import math
+    >>> help(math.cos)
+
+    >>> help()
+    help> import
+    help> if
+    help> quit
+
+
+#### Python operator precedence (Order of operations)
+
+Precedence of basic arithmetic operation `+`, `-`, `*`, `/`, `**`, `%`, `//`, and `()`  
+
+
+#### Assignment and variable
+
+Creating, casting, getting a type, assigning. Variable is case-sensitive.
