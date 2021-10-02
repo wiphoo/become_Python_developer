@@ -13,3 +13,18 @@
 
     3.1 copy SSH public key in your clipboard. `cat ~/.ssh/id_ed25519.pub`
     3.2 add new SSH public in your account.
+
+4. test your SSH access.
+    `ssh git@github.com`
+
+
+#### Play with your local repository.
+
+1. create a new repository in GitHub.
+2. clone the repository No.1 to your AWS Cloud9.
+3. create a new directory and file.
+4. see changes.
+5. add changes and commit changes.
+6. see commit.
+7. push change to remote repository.
+

@@ -4,7 +4,7 @@ Topic for discussion
 
 1. Version Control GIT
 2. help() function
-3. Python operator precedence (Order of operations)
+3. Python operator precedence (Arithmetic operators)
 4. Assignment and variable
 
 
@@ -38,11 +38,11 @@ Topic for discussion
     help> quit
 
 
-#### Python operator precedence (Order of operations)
+#### Python arithmetic operator precedence (Order of operations)
 
-Precedence of basic arithmetic operation `+`, `-`, `*`, `/`, `**`, `%`, `//`, and `()`  
+Precedence of basic arithmetic operators `+`, `-`, `*`, `/`, `**`, `%`, `//`, and `()`  
 
 
 #### Assignment and variable
 
-Creating, casting, getting a type, assigning. Variable is case-sensitive.
+Creating, casting, getting a type, assigning, naming. Variable is case-sensitive.
