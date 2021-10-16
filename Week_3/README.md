@@ -5,7 +5,8 @@ Topic for discussion
 
 1. Comment
 2. Control flows
-3. Function definition
+3. `input()` function
+4. Arguments from command line
 
 #### Comment
 
@@ -13,8 +14,15 @@ single line comment `#`, multi-lines comment
 
 #### Control flows
     
-1. `if` statement
-2. `for` statement
-3. `range ()` function
-4. `break` and `continue` statement
-5. `pass` statement
+`if` statement
+
+#### input function
+
+`input()` function is used for ask an input form user
+
+
+#### Arguments from command line
+
+How to determine a number of arguments from command line?
+
+What are argument from command line?
