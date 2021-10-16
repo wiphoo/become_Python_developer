@@ -21,7 +21,8 @@
     Output:
     `James got a "A"`
 
-    Bonus:
+    Bonus point:
     `James has s 25 of 30 score with is 83.33%, so he got "A"`
 
     
+Bonus point: push the code to github
