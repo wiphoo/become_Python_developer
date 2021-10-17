@@ -7,11 +7,11 @@
 
 2. The Score (normalized score  0 to 100) to the grade 
 
-    0 - 50 -> F
-    51 - 60 -> D
-    60 - 70 -> C
-    71 - 80 -> B
-    81 - 100 -> C
+    0 - 49 -> F
+    50 - 59 -> D
+    60 - 69 -> C
+    70 - 79 -> B
+    80 - 100 -> A
 
 3. Student grade report
 
