@@ -1,4 +1,4 @@
-## Week 4
+## Week 5
 
 Topic for discussion
 
@@ -7,5 +7,5 @@ Topic for discussion
 
 #### Control flows
     
-1. `range ()` function
-2. `for` statement
+1. `break` and `continue` statement
+2. `pass` statement
