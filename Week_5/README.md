@@ -6,6 +6,7 @@ Topic for discussion
 1. Control flows (Cont)
 
 #### Control flows
-    
-1. `break` and `continue` statement
-2. `pass` statement
+
+1. `enumerate` function    
+2. `break` and `continue` statement
+3. `pass` statement
