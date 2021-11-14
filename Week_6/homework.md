@@ -20,3 +20,13 @@ Input:
 Expected output:
 
     1 1 2 3 5 8 13 21 34 55
+
+
+##### A script display the pattern like pyramid using a number with a given size.
+
+Expected output:
+
+       1
+      2 2 
+     3 3 3
+    4 4 4 4
