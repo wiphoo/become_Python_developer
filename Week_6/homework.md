@@ -24,6 +24,9 @@ Expected output:
 
 ##### A script display the pattern like pyramid using a number with a given size.
 
+Input:
+    4
+
 Expected output:
 
        1
