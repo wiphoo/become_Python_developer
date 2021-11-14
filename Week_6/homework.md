@@ -19,7 +19,7 @@ Input:
 
 Expected output:
 
-    1 1 2 3 5 8 13 21 34 55
+    0 1 1 2 3 5 8 13 21 34
 
 
 ##### A script display the pattern like pyramid using a number with a given size.
