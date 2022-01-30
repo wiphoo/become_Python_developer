@@ -1,12 +1,11 @@
-##### A script to determine the highest common factor.
+## Queue
 
-Input:
+#### What is a queue concept in computer science.
 
-Expected Output:
+- First come first sever or first-in first-out (FIFO) 
 
+#### How to build a queue in Python.
 
-##### A script to determine the greatest common divisor.
+- data structure
+- function
 
-Input:
-
-Expected Output:
