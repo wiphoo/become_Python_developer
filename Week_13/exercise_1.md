@@ -1,12 +1,27 @@
 ##### A script to determine the highest common factor.
 
-Input:
+Input: 8 12 
 
-Expected Output:
+Expected Output: 4
+
+##### A script to determine the lowest common multiple.
+
+Input: 8 12 
+
+Expected Output: 24
 
 
-##### A script to determine the greatest common divisor.
+##### A script to determine the greatest common divisor with Euclidean algorithm.
 
-Input:
+    
+    function gcd(a, b)
+    while a ≠ b 
+        if a > b
+            a := a − b
+        else
+            b := b − a
+    return a
 
-Expected Output:
+Input: 8 12
+
+Expected Output: 4
